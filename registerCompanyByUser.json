@@ -1,0 +1,22 @@
+{
+  "iot_command" : "registerCompanyByUser",
+  "company_name" : "3333GPT",
+  "username" : "yoni",
+  "password" : "password",
+  "company_contacts" : [{
+    "contact_name" : "bar corporation",
+    "contact_email" : "BarGPT@gmail.com",
+    "contact_phone" : "039701325"
+  }],
+  "payments_info" : [{
+    "credit_card" : "5326458012345678",
+    "expiration_date" : "03/25",
+    "cvv" : "111"
+  }],
+  "address" : {
+    "country" : "Israel",
+    "city" : "Tel-Aviv",
+    "street" : "Gordon",
+    "postal_code" : "630105"
+  }
+}

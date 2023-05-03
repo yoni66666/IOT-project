@@ -1,0 +1,13 @@
+{
+  "database_type": "mongoDB",
+  "iot_command" : "registerProduct",
+  "company_name" : "Etoro3",
+  "username" : "yoni",
+  "password" : "password",
+  "product_name" : "3D Printer",
+  "product_specification" : {
+    "product_price" : 10.0,
+    "product_category": "Printers",
+    "product_weight" : 2.63
+  }
+}

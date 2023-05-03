@@ -1,0 +1,11 @@
+{
+  "database_type": "mongoDB",
+  "iot_command" : "updateIOT",
+  "company_name" : "infi2",
+  "username" : "bar",
+  "password" : "password",
+  "iot_details" : {
+    "iot_data" : "3d38aj7",
+    "device_serial_number" : 1
+  }
+}

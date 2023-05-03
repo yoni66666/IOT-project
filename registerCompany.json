@@ -1,0 +1,27 @@
+{
+  "database_type": "mongoDB",
+  "iot_command" : "registerCompany",
+  "company_name" : "Etoro1",
+  "username" : "yoni",
+  "password" : "password",
+  "company_contacts" : [{
+    "contact_name" : "yoni corporation",
+    "contact_email" : "yoni@gmail.com",
+    "contact_phone" : "0543521325"
+  }],
+  "payments_info" : [{
+    "credit_card" : "532645801234567",
+    "expiration_date" : "03/25",
+    "cvv" : "111"
+  },{
+    "credit_card" : "532645801277777",
+    "expiration_date" : "03/77",
+    "cvv" : "777"
+  }],
+  "address" : {
+    "country" : "Israel",
+    "city" : "Tel-Aviv",
+    "street" : "La-gardia",
+    "postal_code" : "6804105"
+  }
+}

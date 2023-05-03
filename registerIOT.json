@@ -1,0 +1,25 @@
+{
+  "database_type": "mongoDB",
+  "iot_command" : "registerIOT",
+  "company_name" : "Etoro1",
+  "username" : "yoni",
+  "password" : "password",
+  "product_name" : "3D Printer",
+  "owner_details" : {
+    "owner_name" : "bar",
+    "owner_email" : "bar.benjamin123@gmail.com",
+    "owner_phone" : "0559700592",
+    "address" : {
+      "country" : "USA",
+      "city" : "New York",
+      "street" : "Square",
+      "postal_code" : "10001"
+    },
+    "payments_info" : [{
+      "credit_card" : "5326458012345678",
+      "expiration_date" : "11/28",
+      "cvv" : "111"
+    }]
+  }
+}
+
